@@ -11,7 +11,7 @@
 
 Ask for a Spoonjoy feature or report a bug.
 
-[Request a feature](https://github.com/spoonjoy/spoonjoy-requests-issues/issues/new?template=feature_request.md) · [Report a bug](https://github.com/spoonjoy/spoonjoy-requests-issues/issues/new?template=bug_report.md) · [Open issues](https://github.com/spoonjoy/spoonjoy-requests-issues/issues) · [spoonjoy.app](https://spoonjoy.app)
+[Request a feature](https://github.com/spoonjoy/spoonjoy-requests-issues/issues/new?template=feature_request.md) · [Report a bug](https://github.com/spoonjoy/spoonjoy-requests-issues/issues/new?template=bug_report.md) · [Issues](https://github.com/spoonjoy/spoonjoy-requests-issues/issues) · [spoonjoy.app](https://spoonjoy.app)
 
 **Start:** open an issue from one of the two templates. For anything about your own account, write through [spoonjoy.app/support](https://spoonjoy.app/support) instead, since issues here are public.
 
