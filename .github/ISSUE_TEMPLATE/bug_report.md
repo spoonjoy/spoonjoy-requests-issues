@@ -1,38 +1,25 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Report a bug
+about: Something in Spoonjoy did not work the way you expected.
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**What happened?**
+Tell us what you were doing and what went wrong.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**What did you expect?**
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Steps to see it again**
+1. 
+2. 
+3. 
+
+**Where?**
+- Web (which browser), iPhone, iPad or Mac:
+- App version, if it is the iPhone, iPad or Mac app:
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+Drop them here if you have them. Leave out anything private: account matters go to https://spoonjoy.app/support.
