@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Help with your account
+    url: https://spoonjoy.app/support
+    about: Sign-in, data and privacy questions go to Spoonjoy support, not a public issue.
