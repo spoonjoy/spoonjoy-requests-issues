@@ -3,3 +3,6 @@ contact_links:
   - name: Help with your account
     url: https://spoonjoy.app/support
     about: Sign-in, data and privacy questions go to Spoonjoy support, not a public issue.
+  - name: Building with the API or MCP server
+    url: https://spoonjoy.app/developers
+    about: The API and MCP docs for agents and developers. Report a bug in either with the bug template.

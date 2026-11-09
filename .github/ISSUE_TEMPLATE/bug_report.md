@@ -18,7 +18,7 @@ Tell us what you were doing and what went wrong.
 3. 
 
 **Where?**
-- Web (which browser), iPhone, iPad or Mac:
+- Web (which browser), iPhone, iPad, Mac, or the API or MCP server (which endpoint or tool):
 - App version, if it is the iPhone, iPad or Mac app:
 
 **Screenshots**
